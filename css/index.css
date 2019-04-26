@@ -144,3 +144,22 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.navigation {
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    margin-top: 20px;
+}
+li a {
+    
+    color:black;
+    text-align: center;
+    padding: 0px 40px;
+    text-decoration: none;
+  }
+  ul {
+      display: flex;
+  }
