@@ -198,7 +198,32 @@ li a {
     }
 
     .paragraph {
-        border-bottom: 2px dotted black;
+        border-bottom: 1px dashed black;
         margin-bottom: 20px;
         padding-bottom: 20px;
+    }
+
+
+    .top-content-a {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-bottom: 20px;
+        
+    }
+    
+    .top-content-a .text-container-a {
+        width: 48%;
+        padding: 0 1%;
+        padding-bottom: 20px;  
+    }
+    .text-container-a {
+        border-bottom: 1px dashed black;
+    }
+    h4 {
+        margin-top:10px
+    }
+    .bottomtext {
+        margin-top:20px;
+        margin-bottom:20px;
     }
