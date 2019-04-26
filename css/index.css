@@ -101,10 +101,9 @@ p {
     justify-content: space-evenly;
 }
 
-.middle-content .boxes .box {
+.middle-content .boxes .box-l {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -167,3 +166,35 @@ li a {
       margin-top: 20px;
       margin-bottom: 20px;
   }
+  .box-a {
+      background-color: teal;
+  }
+  .box-b {
+    background-color: gold;
+    }
+    .box-c {
+        background-color: cadetblue;
+    }
+    .box-d {
+        background-color: coral;
+    }
+    .box-e {
+        background-color: crimson;
+    }
+    .box-f {
+        background-color:forestgreen; 
+    }
+    .box-g {
+        background-color: darkorchid;
+    }
+    .box-h {
+        background-color: hotpink;
+    }
+    .box-i {
+        background-color: indigo;
+    }
+    .box-j {
+        background-color: dodgerblue;
+    }
+
+    
