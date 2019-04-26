@@ -197,4 +197,8 @@ li a {
         background-color: dodgerblue;
     }
 
-    
+    .paragraph {
+        border-bottom: 2px dotted black;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+    }
