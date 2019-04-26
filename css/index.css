@@ -163,3 +163,7 @@ li a {
   ul {
       display: flex;
   }
+  .jumbo {
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
