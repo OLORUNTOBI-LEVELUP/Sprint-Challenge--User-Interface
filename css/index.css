@@ -142,6 +142,7 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+    
 }
 
 .navigation {
@@ -153,8 +154,9 @@ footer nav a {
     margin-top: 20px;
 }
 li a {
+    animation-name: example;
+    animation-duration: 4s;
     
-    color:black;
     text-align: center;
     padding: 0px 40px;
     text-decoration: none;
@@ -238,3 +240,8 @@ li a {
     p {
         margin-bottom: 30px;
     }
+
+    @keyframes example {
+        from {color: blue;}
+        to {color: black;}
+      }
