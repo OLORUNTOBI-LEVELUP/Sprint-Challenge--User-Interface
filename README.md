@@ -33,14 +33,29 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+## Answer
+Semantic HTML introduces meaning to a webpage rathern than just presentation. It gives the webpage an underlying meaning. The meaning of semantic HTML tags can be inferred by just reading it e.g <P> means paragraph tag, <button> is an html tag for button, <h1> is an header tag
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+## Answer
+a. 'Display: block' takes up the full width while 'display: inline' takes up only as much width as it needs
+b. 'Display: block' has a line break before and after the element
+while 'display: inline' has no line break before and aster element
 
 3. What are the 4 areas of the box model?
+## Answer
+a. Margin
+b. Border
+c. Padding
+d. Content
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+## Answer
+Cross-axis
 
 5. Explain why git is valuable to a team of developers.
+## Answer
+Git is very valuable to developers because it is a distributed version control system and thus aids developers in collaboration. Its also acts as a storage for developers code which can be very important when a developer loses his or her computer. Its also shows the history of a project using commits, and the exact code at the time of a particular commit can be reverted back to. This can be very useful when a bug is found in an application that wasn't present there before. In summary, git is very important and allows developers from different parts of the world collaborate and contribute to a source code 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
